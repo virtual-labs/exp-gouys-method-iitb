@@ -1,1 +1,1 @@
-## Experiment name
+## Measurement of magnetic susceptibility by Gouy’s method
