@@ -1,0 +1,582 @@
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/activity1.js
+    8:14   warning  'Pannel' is not defined                                no-undef
+   14:10   warning  'start_act1' is defined but never used                 no-unused-vars
+   21:10   warning  'move_to_activity3' is defined but never used          no-unused-vars
+   24:5    warning  'activity2' is not defined                             no-undef
+   33:5    warning  'global_score' is assigned a value but never used      no-unused-vars
+   34:5    warning  'a1_panel' is defined but never used                   no-unused-vars
+   35:5    warning  'all_text_content' is assigned a value but never used  no-unused-vars
+   36:5    warning  'canvas_box_scale' is already defined                  no-redeclare
+   36:5    warning  'canvas_box_scale' is assigned a value but never used  no-unused-vars
+   39:5    warning  'a1_scene' is defined but never used                   no-unused-vars
+   46:5    warning  'display_score' is defined but never used              no-unused-vars
+   47:5    warning  'timer1' is assigned a value but never used            no-unused-vars
+   62:17   warning  'Scene' is not defined                                 no-undef
+   67:27   warning  'bootstrap' is not defined                             no-undef
+  103:18   warning  'Chemistry' is not defined                             no-undef
+  103:42   warning  'electromagnet_power_supply' is not defined            no-undef
+  103:74   warning  'Chemistry' is not defined                             no-undef
+  106:9    warning  'sq' is already defined                                no-redeclare
+  106:18   warning  'Chemistry' is not defined                             no-undef
+  106:42   warning  'electromagnet' is not defined                         no-undef
+  106:61   warning  'Chemistry' is not defined                             no-undef
+  109:9    warning  'sq' is already defined                                no-redeclare
+  109:18   warning  'Chemistry' is not defined                             no-undef
+  109:42   warning  'gauss_meter' is not defined                           no-undef
+  109:59   warning  'Chemistry' is not defined                             no-undef
+  112:9    warning  'sq' is already defined                                no-redeclare
+  112:18   warning  'Chemistry' is not defined                             no-undef
+  112:42   warning  'gauss_probe' is not defined                           no-undef
+  112:59   warning  'Chemistry' is not defined                             no-undef
+  115:9    warning  'sq' is already defined                                no-redeclare
+  115:18   warning  'Chemistry' is not defined                             no-undef
+  115:42   warning  'wooden_stand' is not defined                          no-undef
+  115:60   warning  'Chemistry' is not defined                             no-undef
+  118:9    warning  'sq' is already defined                                no-redeclare
+  118:18   warning  'Chemistry' is not defined                             no-undef
+  118:42   warning  'weighing_machine' is not defined                      no-undef
+  118:64   warning  'Chemistry' is not defined                             no-undef
+  181:25   warning  'Chemistry' is not defined                             no-undef
+  181:50   warning  'Chemistry' is not defined                             no-undef
+  192:10   warning  'electromagnet_power_supply' is not defined            no-undef
+  192:38   warning  'electromagnet_power_supply' is not defined            no-undef
+  193:10   warning  'electromagnet' is not defined                         no-undef
+  193:25   warning  'electromagnet' is not defined                         no-undef
+  194:10   warning  'gauss_meter' is not defined                           no-undef
+  194:23   warning  'gauss_meter' is not defined                           no-undef
+  195:10   warning  'gauss_probe' is not defined                           no-undef
+  195:23   warning  'gauss_probe' is not defined                           no-undef
+  196:10   warning  'wooden_stand' is not defined                          no-undef
+  196:24   warning  'wooden_stand' is not defined                          no-undef
+  197:10   warning  'weighing_machine' is not defined                      no-undef
+  197:28   warning  'weighing_machine' is not defined                      no-undef
+  200:13   warning  'Chemistry' is not defined                             no-undef
+  200:66   warning  'Chemistry' is not defined                             no-undef
+  201:13   warning  'Chemistry' is not defined                             no-undef
+  201:53   warning  'Chemistry' is not defined                             no-undef
+  202:13   warning  'Chemistry' is not defined                             no-undef
+  202:51   warning  'Chemistry' is not defined                             no-undef
+  203:13   warning  'Chemistry' is not defined                             no-undef
+  203:51   warning  'Chemistry' is not defined                             no-undef
+  204:13   warning  'Chemistry' is not defined                             no-undef
+  204:52   warning  'Chemistry' is not defined                             no-undef
+  205:13   warning  'Chemistry' is not defined                             no-undef
+  205:56   warning  'Chemistry' is not defined                             no-undef
+  216:12   warning  Unexpected constant condition                          no-constant-condition
+  238:49   warning  'Chemistry' is not defined                             no-undef
+  241:39   warning  'bootstrap' is not defined                             no-undef
+  273:30   warning  'Chemistry' is not defined                             no-undef
+  273:73   warning  'Chemistry' is not defined                             no-undef
+  301:13   warning  'bsOffcanvas' is already defined                       no-redeclare
+  301:31   warning  'bootstrap' is not defined                             no-undef
+  303:30   warning  'Chemistry' is not defined                             no-undef
+  303:118  warning  'Chemistry' is not defined                             no-undef
+  346:24   warning  'activity3' is not defined                             no-undef
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/activity2.js
+    8:5    warning  'tab' is defined but never used                no-unused-vars
+   13:10   warning  'activity2' is defined but never used          no-unused-vars
+   14:5    warning  'pp' is not defined                            no-undef
+   15:5    warning  'pp' is not defined                            no-undef
+   16:5    warning  'pp' is not defined                            no-undef
+   17:5    warning  'pp' is not defined                            no-undef
+   39:5    warning  'pp' is not defined                            no-undef
+   41:5    warning  'pp' is not defined                            no-undef
+   42:5    warning  'canvas' is not defined                        no-undef
+   42:14   warning  'pp' is not defined                            no-undef
+   43:5    warning  'context' is not defined                       no-undef
+   43:15   warning  'canvas' is not defined                        no-undef
+   44:5    warning  'canvas' is not defined                        no-undef
+   45:5    warning  'rect' is not defined                          no-undef
+   45:12   warning  'canvas' is not defined                        no-undef
+   46:5    warning  'scene' is not defined                         no-undef
+   46:17   warning  'Scene' is not defined                         no-undef
+   47:25   warning  'Chemistry' is not defined                     no-undef
+   47:49   warning  'exp_setup1' is not defined                    no-undef
+   47:65   warning  'Chemistry' is not defined                     no-undef
+   47:116  warning  'canvas' is not defined                        no-undef
+   48:5    warning  'scene' is not defined                         no-undef
+   49:20   warning  'Chemistry' is not defined                     no-undef
+   49:42   warning  'Chemistry' is not defined                     no-undef
+   49:76   warning  'canvas' is not defined                        no-undef
+   52:5    warning  'scene' is not defined                         no-undef
+   53:5    warning  'scene' is not defined                         no-undef
+   54:5    warning  'pp' is not defined                            no-undef
+   55:5    warning  'show_panel' is not defined                    no-undef
+   68:5    warning  'scene' is not defined                         no-undef
+   71:5    warning  'canvas' is not defined                        no-undef
+   72:5    warning  'canvas' is not defined                        no-undef
+   72:23   warning  'canvas' is not defined                        no-undef
+   73:5    warning  'lscale' is not defined                        no-undef
+   73:14   warning  'canvas' is not defined                        no-undef
+   75:9    warning  'canvas' is not defined                        no-undef
+   79:5    warning  'context' is not defined                       no-undef
+   79:26   warning  'canvas' is not defined                        no-undef
+   80:5    warning  'context' is not defined                       no-undef
+   82:10   warning  'specimen_selected' is defined but never used  no-unused-vars
+   89:5    warning  'selected_specimen' is not defined             no-undef
+   93:5    warning  'canvas' is not defined                        no-undef
+   94:27   warning  'selected_specimen' is not defined             no-undef
+   95:5    warning  'pp' is not defined                            no-undef
+   98:5    warning  'show_panel' is not defined                    no-undef
+  126:5    warning  'pp' is not defined                            no-undef
+  135:10   warning  'verify_reading' is defined but never used     no-unused-vars
+  141:32   warning  'final_wt' is not defined                      no-undef
+  148:32   warning  'initial_wt' is not defined                    no-undef
+  153:47   warning  'H' is not defined                             no-undef
+  158:28   warning  'final_wt' is not defined                      no-undef
+  163:9    warning  'pp' is not defined                            no-undef
+  168:9    warning  'canvas' is not defined                        no-undef
+  169:9    warning  'hide_panel' is not defined                    no-undef
+  179:5    warning  'canvas' is not defined                        no-undef
+  183:37   warning  'rect' is not defined                          no-undef
+  183:47   warning  'lscale' is not defined                        no-undef
+  184:25   warning  'canvas' is not defined                        no-undef
+  184:54   warning  'rect' is not defined                          no-undef
+  184:65   warning  'lscale' is not defined                        no-undef
+  189:13   warning  'pp' is not defined                            no-undef
+  192:34   warning  'H' is not defined                             no-undef
+  193:13   warning  'show_panel' is not defined                    no-undef
+  195:13   warning  'canvas' is not defined                        no-undef
+  196:13   warning  'canvas' is not defined                        no-undef
+  197:13   warning  'scene' is not defined                         no-undef
+  203:9    warning  'selected_specimen' is not defined             no-undef
+  206:28   warning  'final_wt' is not defined                      no-undef
+  212:28   warning  'final_wt' is not defined                      no-undef
+  220:9    warning  'final_wt' is not defined                      no-undef
+  220:20   warning  'final_wt_Ca' is not defined                   no-undef
+  223:9    warning  'cal_data' is not defined                      no-undef
+  223:18   warning  'Ca' is not defined                            no-undef
+  223:22   warning  'final_wt' is not defined                      no-undef
+  224:9    warning  'calculate_susceptibility' is not defined      no-undef
+  224:34   warning  'Ca' is not defined                            no-undef
+  225:9    warning  'cal_percentage_error' is not defined          no-undef
+  225:30   warning  'susc_ca' is not defined                       no-undef
+  226:9    warning  'table_data' is not defined                    no-undef
+  226:22   warning  'Ca' is not defined                            no-undef
+  227:9    warning  'susc_compare' is not defined                  no-undef
+  228:13   warning  'susc_ca' is not defined                       no-undef
+  228:25   warning  'susceptibility' is not defined                no-undef
+  228:46   warning  'susceptibility' is not defined                no-undef
+  228:63   warning  'susc_ca' is not defined                       no-undef
+  231:9    warning  'final_wt' is not defined                      no-undef
+  231:20   warning  'final_wt_K' is not defined                    no-undef
+  234:9    warning  'cal_data' is not defined                      no-undef
+  234:18   warning  'K' is not defined                             no-undef
+  234:21   warning  'final_wt' is not defined                      no-undef
+  235:9    warning  'calculate_susceptibility' is not defined      no-undef
+  235:34   warning  'K' is not defined                             no-undef
+  236:9    warning  'cal_percentage_error' is not defined          no-undef
+  236:30   warning  'susc_k' is not defined                        no-undef
+  237:9    warning  'table_data' is not defined                    no-undef
+  237:22   warning  'K' is not defined                             no-undef
+  238:9    warning  'susc_compare' is not defined                  no-undef
+  239:13   warning  'susc_k' is not defined                        no-undef
+  239:24   warning  'susceptibility' is not defined                no-undef
+  239:45   warning  'susceptibility' is not defined                no-undef
+  239:62   warning  'susc_k' is not defined                        no-undef
+  241:29   warning  'final_wt' is not defined                      no-undef
+  242:31   warning  'table_data' is not defined                    no-undef
+  243:35   warning  'susceptibility' is not defined                no-undef
+  246:5    warning  'pp' is not defined                            no-undef
+  248:5    warning  'pp' is not defined                            no-undef
+  254:44   warning  'table_data' is not defined                    no-undef
+  255:44   warning  'table_data' is not defined                    no-undef
+  256:44   warning  'table_data' is not defined                    no-undef
+  277:37   warning  'rect' is not defined                          no-undef
+  277:47   warning  'lscale' is not defined                        no-undef
+  278:25   warning  'canvas' is not defined                        no-undef
+  278:54   warning  'rect' is not defined                          no-undef
+  278:65   warning  'lscale' is not defined                        no-undef
+  290:21   warning  'pp' is not defined                            no-undef
+  293:21   warning  'show_panel' is not defined                    no-undef
+  297:21   warning  'canvas' is not defined                        no-undef
+  298:21   warning  'pp' is not defined                            no-undef
+  300:21   warning  'show_panel' is not defined                    no-undef
+  301:21   warning  'canvas' is not defined                        no-undef
+  304:37   warning  'exp_setup2' is not defined                    no-undef
+  305:17   warning  'scene' is not defined                         no-undef
+  314:17   warning  'canvas' is not defined                        no-undef
+  320:17   warning  'pp' is not defined                            no-undef
+  324:17   warning  'pp' is not defined                            no-undef
+  325:17   warning  'show_panel' is not defined                    no-undef
+  326:37   warning  'exp_setup1' is not defined                    no-undef
+  327:17   warning  'scene' is not defined                         no-undef
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/activity3.js
+    1:10  warning  'activity3' is defined but never used                      no-unused-vars
+    3:31  warning  'table_data' is not defined                                no-undef
+    4:5   warning  'pp' is not defined                                        no-undef
+    5:5   warning  'pp' is not defined                                        no-undef
+    6:5   warning  'pp' is not defined                                        no-undef
+    7:5   warning  'pp' is not defined                                        no-undef
+    8:5   warning  'pp' is not defined                                        no-undef
+   10:13  warning  Unnecessary escape character: \χ                           no-useless-escape
+   10:27  warning  Unnecessary escape character: \×                           no-useless-escape
+   10:30  warning  Unnecessary escape character: \μ                           no-useless-escape
+   10:35  warning  Unnecessary escape character: \×                           no-useless-escape
+   10:38  warning  Unnecessary escape character: \Δ                           no-useless-escape
+   10:42  warning  Unnecessary escape character: \×                           no-useless-escape
+   19:5   warning  'pp' is not defined                                        no-undef
+   20:5   warning  'show_panel' is not defined                                no-undef
+   22:22  warning  'MathJax' is not defined                                   no-undef
+   29:44  warning  'table_data' is not defined                                no-undef
+   31:44  warning  'table_data' is not defined                                no-undef
+   32:44  warning  'table_data' is not defined                                no-undef
+   55:5   warning  'pp' is not defined                                        no-undef
+   66:10  warning  'a3_verify_table' is defined but never used                no-unused-vars
+   74:21  warning  'table_data' is not defined                                no-undef
+   75:21  warning  'table_data' is not defined                                no-undef
+   76:21  warning  'table_data' is not defined                                no-undef
+   77:14  warning  'verify_values' is not defined                             no-undef
+   77:56  warning  'table_data' is not defined                                no-undef
+   86:14  warning  'verify_values' is not defined                             no-undef
+   86:54  warning  'table_data' is not defined                                no-undef
+   95:14  warning  'verify_values' is not defined                             no-undef
+   95:56  warning  'table_data' is not defined                                no-undef
+  108:5   warning  'pp' is not defined                                        no-undef
+  109:5   warning  'pp' is not defined                                        no-undef
+  110:5   warning  'pp' is not defined                                        no-undef
+  111:5   warning  'pp' is not defined                                        no-undef
+  112:5   warning  'pp' is not defined                                        no-undef
+  113:5   warning  'show_panel' is not defined                                no-undef
+  118:44  warning  'table_data' is not defined                                no-undef
+  119:44  warning  'table_data' is not defined                                no-undef
+  120:44  warning  'table_data' is not defined                                no-undef
+  121:44  warning  'table_data' is not defined                                no-undef
+  122:44  warning  'table_data' is not defined                                no-undef
+  123:44  warning  'table_data' is not defined                                no-undef
+  151:5   warning  'pp' is not defined                                        no-undef
+  153:10  warning  'verify_average_susceptibility' is defined but never used  no-unused-vars
+  156:17  warning  'susceptibility' is not defined                            no-undef
+  157:10  warning  'verify_values' is not defined                             no-undef
+  157:56  warning  'susceptibility' is not defined                            no-undef
+  162:9   warning  'pp' is not defined                                        no-undef
+  163:9   warning  'pp' is not defined                                        no-undef
+  164:9   warning  'show_panel' is not defined                                no-undef
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/activity4.js
+    1:10  warning  'activity4' is defined but never used                  no-unused-vars
+    2:5   warning  'pp' is not defined                                    no-undef
+    3:5   warning  'pp' is not defined                                    no-undef
+    4:5   warning  'pp' is not defined                                    no-undef
+    5:5   warning  'pp' is not defined                                    no-undef
+    8:51  warning  'selected_specimen' is not defined                     no-undef
+   20:5   warning  'pp' is not defined                                    no-undef
+   22:10  warning  'verify_cal_susceptibility' is defined but never used  no-unused-vars
+   25:17  warning  'susceptibility' is not defined                        no-undef
+   26:10  warning  'verify_values' is not defined                         no-undef
+   26:47  warning  'susceptibility' is not defined                        no-undef
+   33:50  warning  'susceptibility' is not defined                        no-undef
+   67:5   warning  'pp' is not defined                                    no-undef
+   69:10  warning  'verify_dropdowns' is defined but never used           no-unused-vars
+   72:27  warning  'susc_compare' is not defined                          no-undef
+   73:17  warning  'percentage_error' is not defined                      no-undef
+   74:41  warning  'susc_compare' is not defined                          no-undef
+   82:43  warning  'percentage_error' is not defined                      no-undef
+   99:5   warning  'pp' is not defined                                    no-undef
+  104:5   warning  'show_panel' is not defined                            no-undef
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/common.js
+    1:10  warning  'verify_values' is defined but never used                no-unused-vars
+   18:10  warning  'std_deviation' is defined but never used                no-unused-vars
+   23:10  warning  'regression_linear' is defined but never used            no-unused-vars
+   40:10  warning  'ascending_random_array' is defined but never used       no-unused-vars
+   42:12  warning  Unexpected constant condition                            no-constant-condition
+   61:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  118:10  warning  'show_panel' is defined but never used                   no-unused-vars
+  120:31  warning  'bootstrap' is not defined                               no-undef
+  127:10  warning  'hide_panel' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/data.js
+   4:5   warning  'final_wt' is defined but never used                    no-unused-vars
+   5:5   warning  'table_data' is defined but never used                  no-unused-vars
+   7:5   warning  'selected_specimen' is assigned a value but never used  no-unused-vars
+  10:5   warning  'susc_ca' is assigned a value but never used            no-unused-vars
+  11:5   warning  'susc_k' is assigned a value but never used             no-unused-vars
+  12:5   warning  'percentage_error' is assigned a value but never used   no-unused-vars
+  13:5   warning  'susc_compare' is defined but never used                no-unused-vars
+  16:5   warning  'final_wt_Ca' is assigned a value but never used        no-unused-vars
+  20:5   warning  'Ca' is assigned a value but never used                 no-unused-vars
+  22:5   warning  'final_wt_K' is assigned a value but never used         no-unused-vars
+  26:5   warning  'K' is assigned a value but never used                  no-unused-vars
+  28:10  warning  'calculate_susceptibility' is defined but never used    no-unused-vars
+  37:10  warning  'cal_data' is defined but never used                    no-unused-vars
+  48:10  warning  'cal_percentage_error' is defined but never used        no-unused-vars
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/geomerty.js
+   33:49   warning  'lscale' is not defined          no-undef
+   34:49   warning  'lscale' is not defined          no-undef
+   46:23   warning  'pt1' is defined but never used  no-unused-vars
+   46:28   warning  'pt2' is defined but never used  no-unused-vars
+   46:33   warning  'pt3' is defined but never used  no-unused-vars
+   50:24   warning  'geo' is defined but never used  no-unused-vars
+   69:44   warning  'lscale' is not defined          no-undef
+   69:66   warning  'lscale' is not defined          no-undef
+   69:88   warning  'lscale' is not defined          no-undef
+   82:48   warning  'lscale' is not defined          no-undef
+   83:48   warning  'lscale' is not defined          no-undef
+  108:47   warning  'lscale' is not defined          no-undef
+  108:69   warning  'lscale' is not defined          no-undef
+  109:60   warning  'lscale' is not defined          no-undef
+  109:95   warning  'lscale' is not defined          no-undef
+  131:39   warning  'lscale' is not defined          no-undef
+  131:57   warning  'lscale' is not defined          no-undef
+  132:39   warning  'lscale' is not defined          no-undef
+  132:57   warning  'lscale' is not defined          no-undef
+  181:39   warning  'lscale' is not defined          no-undef
+  181:57   warning  'lscale' is not defined          no-undef
+  182:39   warning  'lscale' is not defined          no-undef
+  182:57   warning  'lscale' is not defined          no-undef
+  225:33   warning  'lscale' is not defined          no-undef
+  226:33   warning  'lscale' is not defined          no-undef
+  274:50   warning  'lscale' is not defined          no-undef
+  274:72   warning  'lscale' is not defined          no-undef
+  279:61   warning  'lscale' is not defined          no-undef
+  279:84   warning  'lscale' is not defined          no-undef
+  279:102  warning  'lscale' is not defined          no-undef
+  279:120  warning  'lscale' is not defined          no-undef
+  293:33   warning  'lscale' is not defined          no-undef
+  294:33   warning  'lscale' is not defined          no-undef
+  295:41   warning  'lscale' is not defined          no-undef
+  295:64   warning  'lscale' is not defined          no-undef
+  295:98   warning  'lscale' is not defined          no-undef
+  295:121  warning  'lscale' is not defined          no-undef
+  296:45   warning  'lscale' is not defined          no-undef
+  296:68   warning  'lscale' is not defined          no-undef
+  296:102  warning  'lscale' is not defined          no-undef
+  296:125  warning  'lscale' is not defined          no-undef
+  323:61   warning  'lscale' is not defined          no-undef
+  323:90   warning  'lscale' is not defined          no-undef
+  324:61   warning  'lscale' is not defined          no-undef
+  324:96   warning  'lscale' is not defined          no-undef
+  325:66   warning  'lscale' is not defined          no-undef
+  325:101  warning  'lscale' is not defined          no-undef
+  326:66   warning  'lscale' is not defined          no-undef
+  326:100  warning  'lscale' is not defined          no-undef
+  327:67   warning  'lscale' is not defined          no-undef
+  327:101  warning  'lscale' is not defined          no-undef
+  328:67   warning  'lscale' is not defined          no-undef
+  328:96   warning  'lscale' is not defined          no-undef
+  329:61   warning  'lscale' is not defined          no-undef
+  329:90   warning  'lscale' is not defined          no-undef
+  346:33   warning  'lscale' is not defined          no-undef
+  347:33   warning  'lscale' is not defined          no-undef
+  376:46   warning  'lscale' is not defined          no-undef
+  382:50   warning  'lscale' is not defined          no-undef
+  382:72   warning  'lscale' is not defined          no-undef
+  411:52   warning  'lscale' is not defined          no-undef
+  411:79   warning  'lscale' is not defined          no-undef
+  413:56   warning  'lscale' is not defined          no-undef
+  413:83   warning  'lscale' is not defined          no-undef
+  450:50   warning  'lscale' is not defined          no-undef
+  450:72   warning  'lscale' is not defined          no-undef
+  456:61   warning  'lscale' is not defined          no-undef
+  456:84   warning  'lscale' is not defined          no-undef
+  456:102  warning  'lscale' is not defined          no-undef
+  456:120  warning  'lscale' is not defined          no-undef
+  470:33   warning  'lscale' is not defined          no-undef
+  471:33   warning  'lscale' is not defined          no-undef
+  472:41   warning  'lscale' is not defined          no-undef
+  472:64   warning  'lscale' is not defined          no-undef
+  472:98   warning  'lscale' is not defined          no-undef
+  472:121  warning  'lscale' is not defined          no-undef
+  473:45   warning  'lscale' is not defined          no-undef
+  473:68   warning  'lscale' is not defined          no-undef
+  473:102  warning  'lscale' is not defined          no-undef
+  473:125  warning  'lscale' is not defined          no-undef
+  502:50   warning  'lscale' is not defined          no-undef
+  502:72   warning  'lscale' is not defined          no-undef
+  507:139  warning  'lscale' is not defined          no-undef
+  507:172  warning  'lscale' is not defined          no-undef
+  507:205  warning  'lscale' is not defined          no-undef
+  507:225  warning  'lscale' is not defined          no-undef
+  528:50   warning  'lscale' is not defined          no-undef
+  528:72   warning  'lscale' is not defined          no-undef
+  533:139  warning  'lscale' is not defined          no-undef
+  533:172  warning  'lscale' is not defined          no-undef
+  533:205  warning  'lscale' is not defined          no-undef
+  533:225  warning  'lscale' is not defined          no-undef
+  555:50   warning  'lscale' is not defined          no-undef
+  555:72   warning  'lscale' is not defined          no-undef
+  560:133  warning  'lscale' is not defined          no-undef
+  560:172  warning  'lscale' is not defined          no-undef
+  560:205  warning  'lscale' is not defined          no-undef
+  560:224  warning  'lscale' is not defined          no-undef
+  584:39   warning  'lscale' is not defined          no-undef
+  584:53   warning  'lscale' is not defined          no-undef
+  585:39   warning  'lscale' is not defined          no-undef
+  585:53   warning  'lscale' is not defined          no-undef
+  586:39   warning  'lscale' is not defined          no-undef
+  586:53   warning  'lscale' is not defined          no-undef
+  587:39   warning  'lscale' is not defined          no-undef
+  587:53   warning  'lscale' is not defined          no-undef
+  594:36   warning  'lscale' is not defined          no-undef
+  594:50   warning  'lscale' is not defined          no-undef
+  594:63   warning  'lscale' is not defined          no-undef
+  605:36   warning  'lscale' is not defined          no-undef
+  605:50   warning  'lscale' is not defined          no-undef
+  605:63   warning  'lscale' is not defined          no-undef
+  632:46   warning  'lscale' is not defined          no-undef
+  637:50   warning  'lscale' is not defined          no-undef
+  637:72   warning  'lscale' is not defined          no-undef
+  659:50   warning  'lscale' is not defined          no-undef
+  659:72   warning  'lscale' is not defined          no-undef
+  663:46   warning  'lscale' is not defined          no-undef
+  664:46   warning  'lscale' is not defined          no-undef
+  664:67   warning  'lscale' is not defined          no-undef
+  665:49   warning  'lscale' is not defined          no-undef
+  701:13   warning  'context' is not defined         no-undef
+  702:13   warning  'context' is not defined         no-undef
+  702:38   warning  'lscale' is not defined          no-undef
+  702:56   warning  'lscale' is not defined          no-undef
+  703:13   warning  'context' is not defined         no-undef
+  703:38   warning  'lscale' is not defined          no-undef
+  703:56   warning  'lscale' is not defined          no-undef
+  704:13   warning  'context' is not defined         no-undef
+  706:46   warning  'lscale' is not defined          no-undef
+  706:65   warning  'lscale' is not defined          no-undef
+  706:83   warning  'lscale' is not defined          no-undef
+  706:102  warning  'lscale' is not defined          no-undef
+  707:32   warning  'lscale' is not defined          no-undef
+  707:58   warning  'lscale' is not defined          no-undef
+  708:32   warning  'lscale' is not defined          no-undef
+  708:58   warning  'lscale' is not defined          no-undef
+  709:32   warning  'lscale' is not defined          no-undef
+  709:58   warning  'lscale' is not defined          no-undef
+  710:32   warning  'lscale' is not defined          no-undef
+  710:58   warning  'lscale' is not defined          no-undef
+  712:13   warning  'context' is not defined         no-undef
+  713:13   warning  'context' is not defined         no-undef
+  713:38   warning  'lscale' is not defined          no-undef
+  713:56   warning  'lscale' is not defined          no-undef
+  714:13   warning  'context' is not defined         no-undef
+  715:13   warning  'context' is not defined         no-undef
+  715:38   warning  'lscale' is not defined          no-undef
+  715:56   warning  'lscale' is not defined          no-undef
+  716:13   warning  'context' is not defined         no-undef
+  717:13   warning  'context' is not defined         no-undef
+  719:32   warning  'lscale' is not defined          no-undef
+  719:58   warning  'lscale' is not defined          no-undef
+  720:32   warning  'lscale' is not defined          no-undef
+  720:58   warning  'lscale' is not defined          no-undef
+  721:32   warning  'lscale' is not defined          no-undef
+  721:58   warning  'lscale' is not defined          no-undef
+  722:32   warning  'lscale' is not defined          no-undef
+  722:58   warning  'lscale' is not defined          no-undef
+  724:13   warning  'context' is not defined         no-undef
+  725:13   warning  'context' is not defined         no-undef
+  725:38   warning  'lscale' is not defined          no-undef
+  725:56   warning  'lscale' is not defined          no-undef
+  726:13   warning  'context' is not defined         no-undef
+  727:13   warning  'context' is not defined         no-undef
+  727:38   warning  'lscale' is not defined          no-undef
+  727:56   warning  'lscale' is not defined          no-undef
+  728:13   warning  'context' is not defined         no-undef
+  729:13   warning  'context' is not defined         no-undef
+  746:50   warning  'lscale' is not defined          no-undef
+  746:72   warning  'lscale' is not defined          no-undef
+  762:38   warning  'lscale' is not defined          no-undef
+  762:51   warning  'lscale' is not defined          no-undef
+  764:38   warning  'lscale' is not defined          no-undef
+  766:38   warning  'lscale' is not defined          no-undef
+  766:52   warning  'lscale' is not defined          no-undef
+  796:43   warning  'lscale' is not defined          no-undef
+  796:61   warning  'lscale' is not defined          no-undef
+  797:43   warning  'lscale' is not defined          no-undef
+  797:61   warning  'lscale' is not defined          no-undef
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/pannel.js
+    8:7  warning  'Pannel' is defined but never used  no-unused-vars
+  152:7  warning  'Table2' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-gouys-method-iitb/exp-gouys-method-iitb/experiment/simulation/js/scene.js
+   1:7    warning  'Scene' is defined but never used         no-unused-vars
+  11:9    warning  'context' is not defined                  no-undef
+  11:33   warning  'canvas' is not defined                   no-undef
+  11:47   warning  'canvas' is not defined                   no-undef
+  27:5    warning  'context' is not defined                  no-undef
+  28:9    warning  'grd' is assigned a value but never used  no-unused-vars
+  28:15   warning  'context' is not defined                  no-undef
+  28:44   warning  'canvas' is not defined                   no-undef
+  28:62   warning  'canvas' is not defined                   no-undef
+  28:84   warning  'canvas' is not defined                   no-undef
+  28:102  warning  'canvas' is not defined                   no-undef
+  28:121  warning  'canvas' is not defined                   no-undef
+  36:5    warning  'context' is not defined                  no-undef
+  37:5    warning  'context' is not defined                  no-undef
+  37:28   warning  'canvas' is not defined                   no-undef
+  37:42   warning  'canvas' is not defined                   no-undef
+  38:5    warning  'context' is not defined                  no-undef
+  39:5    warning  'context' is not defined                  no-undef
+
+✖ 545 problems (0 errors, 545 warnings)
+
