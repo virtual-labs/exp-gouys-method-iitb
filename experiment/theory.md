@@ -37,3 +37,4 @@ Where V is the volume of the sample and dH/dx is the gradient of the magnetic fi
 
 
 
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>

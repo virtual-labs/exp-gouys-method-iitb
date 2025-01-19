@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What does magnetic susceptibility measure?",
+      "qid": 1,
+      "option_a": "The magnetic field strength",
+      "option_b": "The magnetization of a material in response to an external magnetic field",
+      "option_c": "The electric current in a wire",
+      "option_d": "The gravitational force on a sample",
+      "correct_option": "b"
+   },
+   {
+      "question": "Which type of material has a positive magnetic susceptibility?",
+      "qid": 2,
+      "option_a": "Diamagnetic",
+      "option_b": "Paramagnetic",
+      "option_c": "Non-magnetic",
+      "option_d": "Superconducting",
+      "correct_option": "b"
+   },
+   {
+      "question": "What is the unit of magnetic susceptibility (χm)?",
+      "qid": 3,
+      "option_a": "Amperes (A)",
+      "option_b": "Weber per meter (Wb/m)",
+      "option_c": "It is dimensionless",
+      "option_d": "Tesla (T)",
+      "correct_option": "c"
+   },
+   {
+      "question": "What device is used to measure the change in mass in a Gouy balance experiment?",
+      "qid": 4,
+      "option_a": "Ammeter",
+      "option_b": "Voltmeter",
+      "option_c": "Analytical balance",
+      "option_d": "Gaussmeter",
+      "correct_option": "c"
+   },
+   {
+      "question": "What is the value of permeability of free space (μ₀)?",
+      "qid": 5,
+      "option_a": "4π × 10⁻⁷ T·m/A",
+      "option_b": "9 × 10⁹ N·m²/C²",
+      "option_c": "3 × 10⁸ m/s",
+      "option_d": "1.6 × 10⁻¹⁹ C",
+      "correct_option": "a"
+   }
+]
