@@ -28,6 +28,7 @@ function start_act1() {
 function move_to_activity3() {
 	document.getElementById('panel1_btn').remove();
 	canvas.removeEventListener('click', a1_mouseclick);
+	clearTimeout(timer1);
 	activity2();
 }
 
@@ -198,8 +199,7 @@ function a1_draw_all_components() {
 }
 
 //list of all activity 1 questions
-function a1_load_questions() {}
-{
+function a1_load_questions() {
 	question = [];
 	question.push({
 		srno: 1,
@@ -514,15 +514,15 @@ function a1_change_question() {
 
 		global_score = total_score;
 
-		const act2: HTMLButtonElement = <HTMLButtonElement>(
-			document.createElement('input')
-		);
-		act2.type = 'button';
-		act2.onclick = activity3;
-		//document.getElementById("root").appendChild(act2);
-		act2.value = 'Next';
-		act2.className = 'btn btn-success';
-		act2.style.fontSize = '1.0vw';
+		// const act2: HTMLButtonElement = <HTMLButtonElement>(
+		// 	document.createElement('input')
+		// );
+		// act2.type = 'button';
+		// act2.onclick = activity3;
+		// //document.getElementById("root").appendChild(act2);
+		// act2.value = 'Next';
+		// act2.className = 'btn btn-success';
+		// act2.style.fontSize = '1.0vw';
 
 		// guide.value  = "Click Next Button";
 
