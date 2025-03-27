@@ -138,25 +138,25 @@ function verify_reading() {
     fi_wt_inp = (document.getElementById(`a2-fi-wt-inp-${reading_count}`));
     if (reading_count == 1) {
         if (in_wt_inp.value == null ||
-            in_wt_inp.value != final_wt[reading_count - 1].toString()) {
-            alert('Please note initial weight in observation table');
+            !verify_values(parseFloat(in_wt_inp.value), final_wt[reading_count - 1])) {
+            alert('Please enter correct initial weight in observation table');
             return;
         }
     }
     else {
         if (in_wt_inp.value == null ||
-            in_wt_inp.value != initial_wt.toString()) {
-            alert('Please note correct initial weight in observation table which is the final weight of previous reading');
+            !verify_values(parseFloat(in_wt_inp.value), initial_wt)) {
+            alert('Please enter correct initial weight in observation table');
             return;
         }
     }
     if (h_inp.value == null || h_inp.value != H[reading_count - 1].toString()) {
-        alert('Please note correct magnetic field in observation table');
+        alert('Please enter correct magnetic field in observation table');
         return;
     }
     if (fi_wt_inp.value == null ||
-        fi_wt_inp.value != final_wt[reading_count - 1].toString()) {
-        alert('Please note correct final weight in observation table');
+        !verify_values(parseFloat(fi_wt_inp.value), final_wt[reading_count - 1])) {
+        alert('Please enter correct final weight in observation table');
         return;
     }
     if (reading_count < 5) {

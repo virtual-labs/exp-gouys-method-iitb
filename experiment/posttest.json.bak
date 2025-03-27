@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What property of the paramagnetic sample causes a change in mass in the Gouy balance?",
+      "qid": 1,
+      "option_a": "Electric potential",
+      "option_b": "Magnetic field gradient",
+      "option_c": "Temperature difference",
+      "option_d": "Pressure difference",
+      "correct_option": "b"
+   },
+   {
+      "question": "How is the magnetic susceptibility calculated in the Gouy balance experiment?",
+      "qid": 2,
+      "option_a": "By measuring the electric field",
+      "option_b": "By calculating the force between two magnets",
+      "option_c": "Using the change in mass, field strength, and sample length",
+      "option_d": "By direct measurement with a multimeter",
+      "correct_option": "c"
+   },
+   {
+      "question": "Which force acts on the sample in the Gouy balance when exposed to a magnetic field?",
+      "qid": 3,
+      "option_a": "Gravitational force",
+      "option_b": "Magnetic force due to field gradient",
+      "option_c": "Centripetal force",
+      "option_d": "Electrostatic force",
+      "correct_option": "b"
+   },
+   {
+      "question": "What happens to the mass reading when a paramagnetic sample is placed in the magnetic field?",
+      "qid": 4,
+      "option_a": "It remains the same",
+      "option_b": "It decreases",
+      "option_c": "It increases",
+      "option_d": "It fluctuates",
+      "correct_option": "c"
+   },
+   {
+      "question": "Why is the Gouy balance method suitable for measuring magnetic susceptibility?",
+      "qid": 5,
+      "option_a": "It measures temperature effectively",
+      "option_b": "It measures the magnetic response through the force acting on a sample",
+      "option_c": "It directly measures electric potential",
+      "option_d": "It calculates pressure changes",
+      "correct_option": "b"
+   }
+]
